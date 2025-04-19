@@ -31,10 +31,6 @@ I have a strong foundation in both frontend and backend development, which allow
 
 <a href="https://github.com/FarisArthan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisArthan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/faris72"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
