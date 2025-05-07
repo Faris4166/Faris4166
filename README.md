@@ -17,7 +17,9 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/faris72) 
 
 ---
-<img src = "https://i.imgur.com/NxjWrSr.gif">
 
+<div align="center">
+<img src = "https://i.imgur.com/NxjWrSr.gif">
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
