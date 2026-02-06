@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-<img src = "https://i.imgur.com/NxjWrSr.gif">
+ความรักคืออะไร ความก็คือข้าวมันไก่
 </div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
