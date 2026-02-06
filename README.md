@@ -11,12 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris4166&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Faris4166&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<h1>ความรักคืออะไร ความก็คือข้าวมันไก่</h1>
+</div>
 
 ---
 
-<div align="center">
-ความรักคืออะไร ความก็คือข้าวมันไก่
-</div>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
