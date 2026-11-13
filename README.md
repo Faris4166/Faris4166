@@ -1,61 +1,67 @@
 <div align="center">
-  <img src="BG.jpg" width="100%" />
-  
-  # ⚡ ยินดีต้อนรับสู่โปรไฟล์ของผม ⚡
-  ### "ความรักคืออะไร ความรักก็คือข้าวมันไก่"
-  
-  <p align="center">
-    <a href="https://cp-fawn.vercel.app/">🌐 Website Portfolio</a> • 
-    <a href="https://bitsync-iota.vercel.app/">🔗 BitSync Project</a>
-  </p>
 
-  <a href="https://www.facebook.com/share/v/1RZkcgbQqU/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/reel/DA6BQcERa2e/?igsh=NjZxM2Y2M2M0MTJ6"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/shorts/DiWI6q0Jxpk?si=xNu-ro4k3ypWg6Sp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-  <a href="mailto:farisarthan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<img src="BG.jpg" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Hi%2C+I'm+Faris+(%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%84);Full-Stack+Web+Developer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+PHP;console.log(%22%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88%22)" alt="Typing SVG" />
 
-### 💻 Tech Stack & Tools
-
-#### 🚀 Programming Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🎨 Design & Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Faris4166&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" /></td>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=Faris4166&theme=dark&hide_border=false" height="150" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris4166&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-<p align="center">
-  <img src="https://gprm.itsvg.in/api/thanks?count=1" alt="Thanks" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Faris4166&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Faris4166?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
 </p>
+
+<a href="https://www.facebook.com/share/v/1RZkcgbQqU/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=Facebook&logoColor=1877F2" /></a>
+<a href="https://www.instagram.com/reel/DA6BQcERa2e/?igsh=NjZxM2Y2M2M0MTJ6"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=E4405F" /></a>
+<a href="https://youtube.com/shorts/DiWI6q0Jxpk?si=xNu-ro4k3ypWg6Sp"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF0000" /></a>
+<a href="mailto:farisarthan@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🧑‍💻 `$ whoami`
+
+```ts
+const faris = {
+  name:      "Faris Ajhan",
+  nickname:  "โค้ค (Coke)",
+  role:      "Full-Stack Web Developer",
+  location:  "🇹🇭 Thailand",
+  stack:     ["Next.js", "TypeScript", "React", "Go", "PHP", "Supabase"],
+  styling:   ["Tailwind CSS", "shadcn/ui"],
+  database:  ["PostgreSQL", "MySQL"],
+  creative:  ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
+  motto:     "ความรักคืออะไร ความรักก็คือข้าวมันไก่ 🍗",
+  status:    "🟢 Open to work & freelance",
+};
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**🚀 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,python,ts,js,php,html,css&perline=10" />
+
+**🧩 Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,bun,dotnet,tailwind&perline=10" />
+
+**🗄️ Database & DevOps**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,docker,git,github,vercel,vscode&perline=10" />
+
+**🎨 Design & Creative**
+
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=10" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00f7ff&height=120&section=footer" width="100%" />
+
+</div>
